@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# Result files (dữ liệu lịch sử cá nhân, không commit)
+result/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,87 @@
+[
+  {
+    "content": "C# thuộc nền tảng nào?",
+    "answers": ["Java", ".NET", "Python", "PHP"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Từ khóa tạo class?",
+    "answers": ["function", "class", "struct", "define"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "List<T> thuộc namespace nào?",
+    "answers": [
+      "System.IO",
+      "System.Text",
+      "System.Collections.Generic",
+      "System.Linq"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "content": "OOP gồm bao nhiêu tính chất cơ bản?",
+    "answers": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "content": "Console.ReadLine() trả về kiểu gì?",
+    "answers": ["int", "string", "bool", "void"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Entry point của chương trình C# là method nào?",
+    "answers": ["Start()", "Main()", "Run()", "Init()"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Từ khóa dùng để kế thừa trong C#?",
+    "answers": ["implements", "extends", "inherits", ":"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "content": "Từ khóa dùng để khai báo hằng số?",
+    "answers": ["readonly", "static", "const", "final"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "content": "Kiểu dữ liệu nào là kiểu tham chiếu?",
+    "answers": ["int", "double", "string", "bool"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "content": "Để xử lý ngoại lệ trong C# dùng khối nào?",
+    "answers": ["if-else", "try-catch", "loop-break", "switch-case"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Từ khóa nào dùng để tạo object?",
+    "answers": ["create", "make", "new", "init"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "content": "LINQ thường dùng namespace nào?",
+    "answers": ["System.Text", "System.Linq", "System.IO", "System.Threading"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Phương thức nào dùng để in ra màn hình?",
+    "answers": [
+      "Console.Print()",
+      "Console.Write()",
+      "Console.Output()",
+      "Console.Log()"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Từ khóa nào dùng để định nghĩa interface?",
+    "answers": ["abstract", "interface", "struct", "virtual"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "content": "Từ khóa nào cho phép method có thể bị override?",
+    "answers": ["static", "sealed", "virtual", "private"],
+    "correctAnswerIndex": 2
+  }
+]
